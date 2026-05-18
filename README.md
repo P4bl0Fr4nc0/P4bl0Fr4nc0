@@ -1,5 +1,108 @@
+<h1 align="center">Hola, soy Pablo Franco 👋</h1>
 
+<h3 align="center">
+Data Analyst & Backend Developer
+</h3>
 
+---
+
+## 🚀 Sobre mí
+
+Soy un profesional orientado al análisis de datos y desarrollo backend, apasionado por transformar información en soluciones útiles para la toma de decisiones.
+
+Actualmente enfocado en:
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🗄️ SQL & Bases de datos
+- 📉 Dashboards y visualización de datos
+
+Aquí encontrarás algunos de mis proyectos, prácticas y experimentos relacionados con desarrollo de software, análisis de datos y tecnologías modernas.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<div align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="php logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="spring logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="intellij logo" />
+
+</div>
+
+---
+
+## 📊 Data Analytics Skills
+
+- SQL Analytics
+- KPI Analysis
+- Dashboard Development
+- Data Visualization
+- Power BI
+- Looker Studio
+- Excel Avanzado
+- Business Intelligence
+- Reporting & Analytics
+
+---
+
+## 📈 GitHub Stats
+
+ <img src="https://streak-stats.demolab.com?user=P4bl0Fr4nc0&theme=tokyonight&hide_border=true" />
+
+---
+
+## 🌐 Contacto y redes
+
+<div align="left">
+
+  <a href="https://www.linkedin.com/in/pablofranco-r" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.instagram.com/pablo_arturo_f/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" />
+  </a>
+
+  <a href="mailto:lize293@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img height="220" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF1dzR6N2Y1NzIwcXUxYzNtYjY4MWM5dHpwMTl2OTZseG14M3lpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" />
+
+</div>
+<!--
 <h2 align="left">Hola, Bienvenido. 👋</h2>
 
 ###
@@ -75,7 +178,7 @@
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjF1dzR6N2Y1NzIwcXUxYzNtYjY4MWM5dHpwMTl2OTZseG14M3lpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
 </div>
 
-
+-->
 
 <!--
 **P4bl0Fr4nc0/P4bl0Fr4nc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
